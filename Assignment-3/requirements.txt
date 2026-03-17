@@ -1,0 +1,4 @@
+groq
+cohere
+requests
+huggingface_hub
