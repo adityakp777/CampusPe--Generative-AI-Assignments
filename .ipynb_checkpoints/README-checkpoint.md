@@ -1,1 +1,0 @@
-# CampusPe--Generative-AI-Assignments
