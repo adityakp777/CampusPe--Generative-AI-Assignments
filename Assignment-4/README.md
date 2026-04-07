@@ -78,4 +78,4 @@ Y2K skate zine aesthetic inspired by Thrasher Magazine 2001.
 
 ---
 
-*Submitted by: Steve | April 2026*
+*Submitted by: Aditya K P | April 2026*
