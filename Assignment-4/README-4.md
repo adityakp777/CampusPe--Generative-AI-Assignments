@@ -34,9 +34,9 @@ Inspired by Thrasher Magazine circa 2001.
 | Mobile responsive hamburger menu | ✅ |
 | Scrolling marquee header | ✅ |
 | Dark mode toggle | ✅ BONUS |
-| Typewriter AI response effect | ✅ BONUS |
-| Export chat as .txt file | ✅ BONUS |
-| Custom scrollbar | ✅ BONUS |
+| Typewriter AI response effect | ✅ |
+| Export chat as .txt file | ✅ |
+| Custom scrollbar | ✅ |
 
 ---
 
